@@ -42,6 +42,7 @@
 | Coding-Boon                                            | Learn Python             |
 | Deepanshu Mittal                                       | Python                   |            
 | Banshaj Paudel                      | Cybersecurity, IoT, Programming, Automation |
+| Meghwant singh                                    |Python game and App development|
 | _Your Name_                                            | _Intrests_               |
  
 
